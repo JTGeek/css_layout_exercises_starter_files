@@ -4,6 +4,7 @@ main {
   max-width: 800px;
   align-content: center;
 }
+
 .box-parent {
   margin-top: 90px;
   margin-left: auto;
@@ -14,6 +15,7 @@ main {
 .box {
   border: 1px solid black;
   display: inline-block;
+  text-align: center;
 }
 
 .row1 {
