@@ -11,11 +11,13 @@ main {
   margin-right: auto;
   width: 800px;
 }
+.center{
+  text-align: center;
+}
 
 .box {
   border: 1px solid black;
   display: inline-block;
-  text-align: center;
 }
 
 .row1 {
