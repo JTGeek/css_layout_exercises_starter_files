@@ -4,38 +4,44 @@ main {
   max-width: 800px;
   align-content: center;
 }
-/*all blocks*/
-.inner {
+.box-parent {
+  margin-top: 90px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+}
+
+.box {
+  border: 1px solid black;
   display: inline-block;
-  vertical-align: top;
-  border-width: 1px;
-  border-color: black;
 }
-/*row 1: Blocks 1-2*/
-.row-1 {
-  height: 200px;
+
+.row1 {
   width: 50%;
+  height: 200px;
 }
-/*row 2: Blocks 3-4*/
-.row-2 {
-  height: 300px;
+
+.row2 {
   width: 33.33%;
+  height: 300px;
 }
-.block-one {
+
+.green {
   background-color: green;
 }
 
-.block-two {
+.blue {
   background-color: blue;
 }
 
-.block-three{
+.grey {
   background-color: grey;
 }
-.block-four {
+
+.black {
   background-color: black;
 }
 
-.block-five {
+.orange{
   background-color: orange;
 }
