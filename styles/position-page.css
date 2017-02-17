@@ -14,7 +14,7 @@ nav {
 
 
 li a {
-    display: block;
+    display: inline-block;
     color: purple;
     text-align: center;
     padding-right: 30px;
@@ -28,6 +28,7 @@ li a {
 	height: 300px;
 	margin-left: auto;
 	margin-right: auto;
+    margin-top: 50%;
 	
   }
 
