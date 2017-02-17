@@ -7,17 +7,35 @@ nav {
   background-color: grey;
 }
 
-main {
-	background-image: 'images/outerspace_landscape.jpeg';
-	background-size: cover;
+.logo {
+  position: absolute;
+  left: 10px;
+}
+
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: green;
+    text-align: center;
+    padding-right: 30px;
+    
+    text-decoration: none;
 }
 
 .green_box {
+  position: relative;
 	border: 10px green dotted;
 	width: 600px;
 	height: 200px;
-	position: fixed;
-	align-self: center;
-	vertical-align: middle;
-}
+	
+  }
 
+.cat {
+  position: absolute;
+  border: 1px solid yellow;
+  
+}
