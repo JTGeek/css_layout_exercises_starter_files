@@ -31,6 +31,8 @@ li a {
 	border: 10px green dotted;
 	width: 600px;
 	height: 200px;
+	margin-left: 50%;
+	margin-top: 50%;
 	
   }
 
