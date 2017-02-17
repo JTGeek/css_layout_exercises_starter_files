@@ -1,3 +1,8 @@
+main {
+	background-image: 'images/outerspace_landscape.jpeg';
+	background-size: cover;
+}
+
 nav {
   padding-left: 60px;
   padding-right: 60px;
@@ -28,7 +33,7 @@ li a {
 	height: 300px;
 	margin-left: auto;
 	margin-right: auto;
-    margin-top: 50%;
+    margin-top: 25%;
 	
   }
 
