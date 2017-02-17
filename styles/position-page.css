@@ -1,1 +1,24 @@
+nav {
+  padding-top: 0px;
+  padding-left: 60px;
+  padding-right: 60px;
+  border: 1px solid black;
+  text-align: left;
+  position: relative;
+  height: 50px;
+}
+
+main {
+	background-image: 'images/outerspace_landscape.jpeg';
+	background-size: cover;
+}
+
+.green_box {
+	border: 10px green dotted;
+	width: 600px;
+	height: 200px;
+	position: fixed;
+	align-self: center;
+	vertical-align: middle;
+}
 
