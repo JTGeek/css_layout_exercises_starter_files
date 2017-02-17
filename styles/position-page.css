@@ -34,8 +34,19 @@ li a {
 	
   }
 
-.cat {
+.pic {
   position: absolute;
-  border: 1px solid yellow;
-  
+  width: 200;
+  height: 200;
+  }
+
+  .cat {
+  	margin-left: 50px;
+  border: 1px solid red;
+  }
+
+.dog {
+  padding-right:  50px;
+  padding-bottom:  25px;
+  border: 1px solid blue;
 }
