@@ -14,13 +14,13 @@ main {
 .left {
 	float: left;
 	margin-right: 10px;
-	width: 100px;
-	height: 100px;
+	width: 300px;
+	height: 300px;
 }
 
 .right {
 	float: right;
 	margin-left: 10px;
-	width: 100px;
-	height: 100px;
+	width: 300px;
+	height: 300px;
 }
