@@ -1,6 +1,6 @@
 body {
-	background-image: url(../images/outerspace_landscape.png) no-repeat;
-	background-size: cover;
+  background: url(../images/outerspace_landscape.jpeg) no-repeat;
+  background-size: cover;
 }
 
 nav {
