@@ -10,6 +10,12 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+/*adding padding around pic*/
+.left, .right {
+	margin-top: 15px;
+
+}
+
 
 .left {
 	float: left;
